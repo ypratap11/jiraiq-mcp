@@ -19,7 +19,7 @@ JiraIQ provides three powerful tools for Claude:
 - 🔍 **Smart Analysis**: Uses Claude AI to identify sentiment, blockers, and risks
 - ⚡ **Fast**: Analyzes issues in seconds instead of manual 30-60 minute review
 - 🔌 **MCP Integration**: Works directly in Claude Desktop chat
-- 🏢 **Built for Oracle/ERP Teams**: Detects OIC, VBCS, Fusion, and other Oracle-specific issues
+- 🏢 **Built for delivery teams**: Finds blocked work and sprint risks across your projects
 
 ## 📋 Prerequisites
 
@@ -33,7 +33,7 @@ JiraIQ provides three powerful tools for Claude:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/jiraiq-mcp.git
+git clone https://github.com/ypratap11/jiraiq-mcp.git
 cd jiraiq-mcp
 ```
 
@@ -226,9 +226,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Support
 
-- Create an [Issue](https://github.com/yourusername/jiraiq-mcp/issues)
-- Connect on [LinkedIn](https://linkedin.com/in/yourprofile)
+- Create an [Issue](https://github.com/ypratap11/jiraiq-mcp/issues)
 
 ---
 
-**Built by Pratap Yeragudipati** | Solving Jira analysis pain for Oracle/ERP implementation teams
+**Built by Pratap Yeragudipati** ([Augaster](https://augaster.com)) | Solving Jira analysis pain for delivery teams
